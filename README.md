@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! My name is Karlo and I'm new to software development.
+Hello! My name's Karlo and I'm a software developer with an artistic background looking to express my creativity through code.
+Welcome to my Github!
